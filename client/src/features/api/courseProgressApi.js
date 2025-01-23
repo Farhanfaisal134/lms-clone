@@ -40,6 +40,7 @@ export const courseProgressApi = createApi({
 
   }),
 });
+
 export const {
   useGetCourseProgressQuery,
   useUpdateLectureProgressMutation,
